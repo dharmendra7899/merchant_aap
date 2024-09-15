@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CTB Merchant</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="next_text">Next</string>
+    <string name="skip_text">Skip</string>
+    <string name="onboarding_heading_text1">Welcome to CTB Merchant</string>
+    <string name="onboarding_heading_text2">Transform your space with ease</string>
+    <string name="onboarding_heading_text3">Information</string>
+    <string name="onboarding_subtitle_text1">Giving the best e-commerce experience, Delivering quality and reliability in one</string>
+    <string name="onboarding_subtitle_text2">Get a seamless e-commerce Experience Explore innovative e-commerce solution, Error-free and easy accessibility</string>
+    <string name="onboarding_subtitle_text3">Your ultimate online shopping destination, Revolutionizing the way you shop where convenience meets affordability, Experience the difference in e-commerce</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sign_up_text">Sign UP</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="account">Account</string>
+    <string name="orders">Orders</string>
+    <string name="product">Products</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

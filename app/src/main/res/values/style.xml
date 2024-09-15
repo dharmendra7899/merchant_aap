@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:fontFamily">@font/montserrat_font_family</item>
+    </style>
+
+<!-- Custom BottomNavigationView style -->
+<style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+    <item name="itemIconTint">@color/bottom_nav_item_icon_color</item>
+    <item name="itemTextColor">@color/bottom_nav_item_text_color</item>
+    <item name="backgroundTint">@color/colorBackground</item>
+</style>
+
+<!-- Define the font family for BottomNavigationView text -->
+<style name="BottomNavigationTextAppearance">
+    <item name="android:fontFamily">@font/montserrat_medium</item>
+</style>
+
+<!-- Apply custom text appearance to BottomNavigationView -->
+<style name="CustomBottomNavigationTextAppearance">
+    <item name="android:textAppearance">@style/BottomNavigationTextAppearance</item>
+</style>
+</resources>
