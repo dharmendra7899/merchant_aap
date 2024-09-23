@@ -16,7 +16,28 @@
     <string name="account">Account</string>
     <string name="orders">Orders</string>
     <string name="product">Products</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status">Open</string>
+    <string name="today">Today</string>
+    <string name="payment_history">Payment History</string>
+    <string name="order_text">Orders(11)</string>
+    <string name="order1_text">You have received total 13 orders today</string>
+    <string name="hello_blank_fragment">Blank Fragment</string>
+    <string name="not_user">Not a user? Register</string>
+    <string name="user">Already hav ean account? Sing In</string>
+    <string name="sign_with_otp">Sign in with OTP</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="continue_text">Continue</string>
+    <string name="register_text">Register</string>
+    <string name="login_text">Login</string>
+    <string name="aggregator_text">Aggregator</string>
+    <string name="merchant_text">Merchant</string>
+    <string name="agree">I agree to the</string>
+    <string name="tc">T&amp;C </string>
+    <string name="policy">Privacy Policy</string>
+    <string name="and">and </string>
 
 </resources>
